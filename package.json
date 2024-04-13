@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Saranyajayakumaran/learn-jest-simon-game/issues"
   },
-  "homepage": "https://github.com/Saranyajayakumaran/learn-jest-simon-game#readme"
+  "homepage": "https://github.com/Saranyajayakumaran/learn-jest-simon-game#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "save-dev": "^0.0.1-security"
+  }
 }

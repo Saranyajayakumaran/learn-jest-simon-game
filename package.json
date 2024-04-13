@@ -1,0 +1,19 @@
+{
+  "name": "learn-jest-simon-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saranyajayakumaran/learn-jest-simon-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saranyajayakumaran/learn-jest-simon-game/issues"
+  },
+  "homepage": "https://github.com/Saranyajayakumaran/learn-jest-simon-game#readme"
+}
